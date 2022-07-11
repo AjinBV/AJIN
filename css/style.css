@@ -1,0 +1,84 @@
+#title{
+    background-color: #ff4c68;
+}
+.navbar-brand{
+    font-family: monsterrat-bold;
+    font-weight: bold;
+    font-size: 40px;
+}
+.icon{
+        color:#ef8172;}
+.icon:hover{
+    color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+#feature{
+    text-align: center;
+    padding: 7% 17%;
+}
+#testimonial img{
+    border-radius: 100%;
+    width: 16%;
+}
+#testimonial {
+    text-align: center;
+    background-color: #ef8172;
+}
+#company{
+    text-align: center;
+    background-color: #ef8172;
+}
+#company img{
+    width: 70%;
+    margin: 25% 10%;
+}
+#courses{
+    text-align: center;   
+}
+.pic{
+    width: 262px;
+    height: 100%;
+}
+/* .card{
+    left: 20px;
+    width: 25%;
+    height: 30%;
+} */
+#footer{
+    background-color: #ef8172;
+    margin-top: 35px;
+    padding: 7% 15%;
+
+}
+#footer a{
+    text-decoration: none;
+    font-family: monsterrat-bold;
+    color: white;
+    line-height: 2.5;
+    font-weight: bold;
+    font-size: 30px;
+}
+.card{
+    height: 386px;
+}
+.copy{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#downloads{
+    margin-top: 20px;
+}
+#footer a:hover{
+    color: black;
+}
+.f1{
+    margin-top: 11px;
+}
+#seacher{
+    margin-top: 30px;
+}
+   
